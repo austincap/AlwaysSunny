@@ -9,4 +9,4 @@ Then I turned that data into [a dictionary of matrices](asd-i.txt) to represent 
 
 I wanted to make some Tableau viz's of this but I couldn't think of a good way to convert my data into a MySQL database. Fortunately I found [Simba's Mongo->SQL->Tableau conversion drivers](http://www.simba.com/webinar/connect-tableau-mongodb/). I consolidated my raw data and imdb ratings in to a mongo database with [this script](mongo_process_always_sunny_data.py).
 
-So far the most interesting thing all this work has produced is [this image I made in Tableau that shows what groups made for the best episodes](best-eps.jpg).
+So far the most interesting thing all this work has produced is [this image I made in Tableau that shows what groups made for the best episodes](best-eps.png).
