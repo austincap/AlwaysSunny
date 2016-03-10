@@ -1,0 +1,144 @@
+Season 1
+1: D C BM*
+2: DM C B
+3: B CMD
+4: C D M B
+5: DM C B
+6: DM C* B
+7: DB C M
+
+Season 2
+1: CMF DB
+2: CMD B F
+3: DB CMF*
+4: DB M* C F
+5: FB CMD
+6: MB F* D C
+7: B D CMF
+8: CMD BF
+9: CB DM F
+10: DB F MC
+
+Season 3
+1: D* CMF B
+2: DMB C F
+3: BF CMD
+4: F CMDB
+5: MF D CB
+6: CD BMF
+7: MF D B C
+8: CMF* D B
+9: CMF DB
+10: M DBCF
+11: D M FC B
+12: M DF CB
+13: M DF CB
+14: BM DCF
+15: F C D M B
+
+Season 4
+1: CBF MD*
+2: MCD BF
+3: MF* D CB
+4: M C D B F
+5: CM DF B
+6: CM D F B
+7: FC MD B
+8: CM DB F
+9: CB D F M
+10: DB CM F
+11: CF DM B
+12: CDF BM
+13: C BMFD
+
+Season 5
+1: FMD D C
+2: FMDCB
+3: MD F C B
+4: DCB F M
+5: BF DMC
+6: DC MFB
+7: MCD B F*
+8: CB DFM
+9: CB D F M
+10: D C M F B
+11: MC D B F
+12: B MCD* F
+
+Season 6
+1: M D B CF*
+2: DM C B F
+3: DMB CF
+4: MC FDB
+5: DB CM F
+6: CM FDB
+7: B D F C M
+8: B CMDF
+9: B C MDF*
+10: C* DBM F
+11: DC* MBF
+12: B D MCF
+13: CM DB F
+
+Season 7
+1: C B M F D
+2: DB FM* C
+3: CMF D B
+4: D CMD F*
+5: F CMDB
+6: F D CB M*
+7: DB* MCF
+8: MB DC F*
+9: DBF CM
+10: C B M F D
+11: CB D F* M
+12: D B CMF
+13: CMDBF
+
+Season 8
+1: DB C* FM
+2: CMD BF
+3: DFC B D
+4: C* B M F D
+5: C B M F D
+6: CMD BF
+7: FC D B M
+8: CBMF D
+9: DM FC B
+10: FC M DB
+
+Season 9
+1: B D CMF*
+2: DB CM F*
+3: DBM C F
+4: CB DM F
+5: M* CDBF
+6: C B M F D
+7: F CMBD
+8: C DMB F
+9: CMD B F*
+10: CMDBF
+
+Season 10
+1: C* B M F D
+2: CMF D B*
+3: CM DB F
+4: C* BMFD
+5: DM* B FC
+6: D CB MF
+7: BDF CM
+8: CMDBF
+9: B D* C M F
+10: BF D MC
+
+Season 11
+1: BD* F CM
+2: CM F BD
+3: F* C D BM
+4: DB CMF
+5: DM B CF*
+6: F CDBM
+7: C* MDBF
+8: CM DBF
+9: CF DB M
+10: CMDBF
